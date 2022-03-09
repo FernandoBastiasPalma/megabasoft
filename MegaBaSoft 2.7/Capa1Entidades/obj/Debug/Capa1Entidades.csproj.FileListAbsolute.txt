@@ -1,0 +1,110 @@
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa1Entidades\obj\Debug\Capa1Entidades.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa1Entidades\obj\Debug\Capa1Entidades.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa1Entidades\obj\Debug\Capa1Entidades.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa1Entidades\obj\Debug\Capa1Entidades.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa1Entidades\obj\Debug\Capa1Entidades.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa1Entidades\obj\Debug\Capa1Entidades.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa1Entidades\obj\Debug\Capa1Entidades.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa1Entidades\obj\Debug\Capa1Entidades.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa1Entidades\obj\Debug\Capa1Entidades.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa1Entidades\obj\Debug\Capa1Entidades.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa1Entidades\obj\Debug\Capa1Entidades.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa1Entidades\obj\Debug\Capa1Entidades.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa1Entidades\obj\Debug\Capa1Entidades.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa1Entidades\obj\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa1Entidades\obj\Debug\Capa1Entidades.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa1Entidades\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa1Entidades\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa1Entidades\obj\Debug\Capa1Entidades.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa1Entidades\obj\Debug\Capa1Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa1Entidades\obj\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa1Entidades\obj\Debug\Capa1Entidades.pdb

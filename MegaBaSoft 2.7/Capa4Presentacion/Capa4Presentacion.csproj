@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3C4815C0-04BE-4BF5-A327-36131BECDCFF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Capa4Presentacion</RootNamespace>
+    <AssemblyName>Capa4Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="megabasoftDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>megabasoftDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="megabasoftDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>megabasoftDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla10MenuTrabajador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla10MenuTrabajador.Designer.cs">
+      <DependentUpon>Pantalla10MenuTrabajador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla11MenuAgronomo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla11MenuAgronomo.Designer.cs">
+      <DependentUpon>Pantalla11MenuAgronomo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla12MenuAccionista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla12MenuAccionista.Designer.cs">
+      <DependentUpon>Pantalla12MenuAccionista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla13MenuSistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla13MenuSistema.Designer.cs">
+      <DependentUpon>Pantalla13MenuSistema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla14ConsultaTrabajos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla14ConsultaTrabajos.Designer.cs">
+      <DependentUpon>Pantalla14ConsultaTrabajos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla15ConsultaProductividad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla15ConsultaProductividad.Designer.cs">
+      <DependentUpon>Pantalla15ConsultaProductividad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla16MantenedorProcesoProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla16MantenedorProcesoProducto.Designer.cs">
+      <DependentUpon>Pantalla16MantenedorProcesoProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla17MantenedorAsignacionCiclo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla17MantenedorAsignacionCiclo.Designer.cs">
+      <DependentUpon>Pantalla17MantenedorAsignacionCiclo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla18MantenedorSolicitudMateriaPrima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla18MantenedorSolicitudMateriaPrima.Designer.cs">
+      <DependentUpon>Pantalla18MantenedorSolicitudMateriaPrima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla19MantenedorAsignacionUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla19MantenedorAsignacionUsuario.Designer.cs">
+      <DependentUpon>Pantalla19MantenedorAsignacionUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla1Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla1Inicio.Designer.cs">
+      <DependentUpon>Pantalla1Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla2Acceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla2Acceso.Designer.cs">
+      <DependentUpon>Pantalla2Acceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla3MantenedorUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla3MantenedorUsuario.Designer.cs">
+      <DependentUpon>Pantalla3MantenedorUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla4MantenedorTerreno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla4MantenedorTerreno.Designer.cs">
+      <DependentUpon>Pantalla4MantenedorTerreno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla5MantenedorProceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla5MantenedorProceso.Designer.cs">
+      <DependentUpon>Pantalla5MantenedorProceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla6MantenedorMateriaPrima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla6MantenedorMateriaPrima.Designer.cs">
+      <DependentUpon>Pantalla6MantenedorMateriaPrima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla7MantenedorProductoVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla7MantenedorProductoVenta.Designer.cs">
+      <DependentUpon>Pantalla7MantenedorProductoVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla8MantenedorTrabajoTerreno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla8MantenedorTrabajoTerreno.Designer.cs">
+      <DependentUpon>Pantalla8MantenedorTrabajoTerreno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantalla9MantenedorActividad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla9MantenedorActividad.Designer.cs">
+      <DependentUpon>Pantalla9MantenedorActividad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="consultaTrabajador.rdlc" />
+    <EmbeddedResource Include="informeProductividad.rdlc" />
+    <EmbeddedResource Include="Pantalla10MenuTrabajador.resx">
+      <DependentUpon>Pantalla10MenuTrabajador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla11MenuAgronomo.resx">
+      <DependentUpon>Pantalla11MenuAgronomo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla12MenuAccionista.resx">
+      <DependentUpon>Pantalla12MenuAccionista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla13MenuSistema.resx">
+      <DependentUpon>Pantalla13MenuSistema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla14ConsultaTrabajos.resx">
+      <DependentUpon>Pantalla14ConsultaTrabajos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla15ConsultaProductividad.resx">
+      <DependentUpon>Pantalla15ConsultaProductividad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla16MantenedorProcesoProducto.resx">
+      <DependentUpon>Pantalla16MantenedorProcesoProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla17MantenedorAsignacionCiclo.resx">
+      <DependentUpon>Pantalla17MantenedorAsignacionCiclo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla18MantenedorSolicitudMateriaPrima.resx">
+      <DependentUpon>Pantalla18MantenedorSolicitudMateriaPrima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla19MantenedorAsignacionUsuario.resx">
+      <DependentUpon>Pantalla19MantenedorAsignacionUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla1Inicio.resx">
+      <DependentUpon>Pantalla1Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla2Acceso.resx">
+      <DependentUpon>Pantalla2Acceso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla3MantenedorUsuario.resx">
+      <DependentUpon>Pantalla3MantenedorUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla4MantenedorTerreno.resx">
+      <DependentUpon>Pantalla4MantenedorTerreno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla5MantenedorProceso.resx">
+      <DependentUpon>Pantalla5MantenedorProceso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla6MantenedorMateriaPrima.resx">
+      <DependentUpon>Pantalla6MantenedorMateriaPrima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla7MantenedorProductoVenta.resx">
+      <DependentUpon>Pantalla7MantenedorProductoVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla8MantenedorTrabajoTerreno.resx">
+      <DependentUpon>Pantalla8MantenedorTrabajoTerreno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantalla9MantenedorActividad.resx">
+      <DependentUpon>Pantalla9MantenedorActividad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="megabasoftDataSet.xsc">
+      <DependentUpon>megabasoftDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="megabasoftDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>megabasoftDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="megabasoftDataSet.xss">
+      <DependentUpon>megabasoftDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="megabasoftDataSet1.xsc">
+      <DependentUpon>megabasoftDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="megabasoftDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>megabasoftDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="megabasoftDataSet1.xss">
+      <DependentUpon>megabasoftDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo principal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagen presentacion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnIngresar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa1Entidades\Capa1Entidades.csproj">
+      <Project>{174ce531-5a5a-4f1f-b89a-74064fe9bf2a}</Project>
+      <Name>Capa1Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Capa3Negocio\Capa3Negocio.csproj">
+      <Project>{6bdcbe51-da10-40c2-8719-df42bbaca978}</Project>
+      <Name>Capa3Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

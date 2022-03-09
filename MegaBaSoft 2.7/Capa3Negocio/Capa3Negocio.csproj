@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6BDCBE51-DA10-40C2-8719-DF42BBACA978}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Capa3Negocio</RootNamespace>
+    <AssemblyName>Capa3Negocio</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="NEGAcceso.cs" />
+    <Compile Include="NEGActividad.cs" />
+    <Compile Include="NEGActividadProceso.cs" />
+    <Compile Include="NEGEstadoTrabajo.cs" />
+    <Compile Include="NEGMateriaPrima.cs" />
+    <Compile Include="NEGMateriaPrimaActividad.cs" />
+    <Compile Include="NEGMateriaTrabajo.cs" />
+    <Compile Include="NEGProceso.cs" />
+    <Compile Include="NEGProductoVenta.cs" />
+    <Compile Include="NEGpruebaConexion.cs" />
+    <Compile Include="NEGTerreno.cs" />
+    <Compile Include="NEGTipoPermiso.cs" />
+    <Compile Include="NEGTipoTiempo.cs" />
+    <Compile Include="NEGTipoTiempoActividad.cs" />
+    <Compile Include="NEGTrabajoTerreno.cs" />
+    <Compile Include="NEGTrabajoTrabajador.cs" />
+    <Compile Include="NEGUnidadMedida.cs" />
+    <Compile Include="NEGUsuario.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa1Entidades\Capa1Entidades.csproj">
+      <Project>{174ce531-5a5a-4f1f-b89a-74064fe9bf2a}</Project>
+      <Name>Capa1Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Capa2Persistencia\Capa2Persistencia.csproj">
+      <Project>{7e3b087a-ba47-4e63-9e97-2d81f5a491a2}</Project>
+      <Name>Capa2Persistencia</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

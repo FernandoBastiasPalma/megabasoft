@@ -1,0 +1,686 @@
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.2 .1\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.5 - copia\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla15ConsultaProductividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla15ConsultaProductividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.8\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla15ConsultaProductividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 1.9\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla16MantenedorProcesoProducto.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla15ConsultaProductividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla16MantenedorProcesoProducto.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.0\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla15ConsultaProductividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla16MantenedorProcesoProducto.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.1\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla15ConsultaProductividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla16MantenedorProcesoProducto.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.2\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla15ConsultaProductividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla16MantenedorProcesoProducto.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla15ConsultaProductividad.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla16MantenedorProcesoProducto.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Jose\Desktop\Taller Integrado Proyectos de Programación II\MegaBaSoft 2.3\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla15ConsultaProductividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla16MantenedorProcesoProducto.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.3 jose\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla15ConsultaProductividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla16MantenedorProcesoProducto.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla17MantenedorAsignacionCiclo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla18MantenedorSolicitudMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.4\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla19MantenedorAsignacionUsuariook.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla15ConsultaProductividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla16MantenedorProcesoProducto.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla17MantenedorAsignacionCiclo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla18MantenedorSolicitudMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla19MantenedorAsignacionUsuariook.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla15ConsultaProductividad.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla16MantenedorProcesoProducto.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla17MantenedorAsignacionCiclo.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla18MantenedorSolicitudMateriaPrima.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla19MantenedorAsignacionUsuariook.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\stdole.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\MegaBaSoft 2.6\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe.config
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Capa4Presentacion.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Capa1Entidades.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Capa3Negocio.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Capa2Persistencia.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\stdole.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Capa1Entidades.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Capa3Negocio.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\Capa2Persistencia.pdb
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla10MenuTrabajador.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla11MenuAgronomo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla12MenuAccionista.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla13MenuSistema.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla14ConsultaTrabajos.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla15ConsultaProductividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla16MantenedorProcesoProducto.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla17MantenedorAsignacionCiclo.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla18MantenedorSolicitudMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla19MantenedorAsignacionUsuariook.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla1Inicio.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla2Acceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla3MantenedorUsuario.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla4MantenedorTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla5MantenedorProceso.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla6MantenedorMateriaPrima.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla7MantenedorProductoVenta.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla8MantenedorTrabajoTerreno.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Pantalla9MantenedorActividad.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.exe
+C:\Users\Fernando\Desktop\Aiep\Taller integrado de Proyectos de Programacion\Programa\Codigo\MegaBaSoft 2.7\Capa4Presentacion\obj\Debug\Capa4Presentacion.pdb
